@@ -4,3 +4,18 @@
 .sectionwrapper2 h1 {
   font-size: 30px;
 }
+.nav-class {
+  background-color: skyblue;
+  padding: 10px;
+}
+.nav-class a {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+  padding: 10px 15px;
+  display: inline-block;
+  transition: 0.3s ease-in;
+}
+.nav-class a:hover {
+  background-color: snow;
+}
